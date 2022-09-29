@@ -37,23 +37,34 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.factorial.dart">
-    <configuration name="Amstrong.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/Amstrong.dart" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My Home\myprojecttt\bin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.List.dart">
+    <configuration name="List.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/List.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="FibnocciSeries.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/FibnocciSeries.dart" />
+    <configuration name="Returntype.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/Returntype.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="factorial.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/factorial.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <configuration name="break_dark.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/break_dark.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="continue_dark.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/continue_dark.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/bin" />
       <method v="2" />
     </configuration>
     <configuration name="myprojecttt.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -61,13 +72,8 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/palindrome.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="whileLoop.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/bin/whileLoop.dart" />
+    <configuration name="returntype2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/returntype2.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -78,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.factorial.dart" />
-        <item itemvalue="Dart Command Line App.Amstrong.dart" />
-        <item itemvalue="Dart Command Line App.whileLoop.dart" />
-        <item itemvalue="Dart Command Line App.FibnocciSeries.dart" />
-        <item itemvalue="Dart Command Line App.palindrome.dart" />
+        <item itemvalue="Dart Command Line App.List.dart" />
+        <item itemvalue="Dart Command Line App.Returntype.dart" />
+        <item itemvalue="Dart Command Line App.continue_dark.dart" />
+        <item itemvalue="Dart Command Line App.returntype2.dart" />
+        <item itemvalue="Dart Command Line App.break_dark.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664384889356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1664385116166</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664385116166</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
